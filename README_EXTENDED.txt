@@ -29,5 +29,3 @@ etapei de Reduce. Rezultatele se retin tot in clasa Reduce Task.
 - In clasa Main, in metoda main, se sorteaza lista de task-uri de Reduce dupa
 rangul fiecarui fisier si se scriu rezultatele din instantele clasei ReduceTask
 in fisieul de iesire.
-
-
