@@ -1,6 +1,4 @@
-# MapReduce-using-Java-Threads
-
-TODO
+# Map-Reduce-Operations-Java-Threads
 
 A Java project that simulates specific Map-Reduce operations on a set of texts and ranks them in accordance with the lengths and frequencies of their words. 
 
